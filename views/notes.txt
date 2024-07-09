@@ -1,0 +1,4 @@
+actions - directory/folder for action related
+assets - directory/forler for css and images
+classes - directory/folder for class files (CRUD) 
+views - directory/folder for html's
